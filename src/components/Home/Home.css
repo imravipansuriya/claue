@@ -1,0 +1,7 @@
+.carousel-caption h3, .carousel-caption p {
+    color: #000;
+}
+.carousel-indicators [data-bs-target]{
+    border-top-color: #000;
+    border-bottom-color: #000;
+}
